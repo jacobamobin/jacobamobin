@@ -7,3 +7,17 @@
 
 [![Infi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobamobin&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/AidanTheBandit/github-readme-stats)
 
+# Gear
+Macbook Pro, M4 Pro
+- 24GB ram
+- 1TB Storage
+
+Apex 7 Red Switches (Full 10k)
+Logitech G502
+Blue Yeti
+Airpods Pro 2
+
+Testable IOS Devices:
+Ipad Air M2 (8GB)
+Iphone 14 Pro
+Apple Watch Series 6
