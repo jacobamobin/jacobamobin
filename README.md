@@ -13,11 +13,19 @@ Macbook Pro, M4 Pro
 - 1TB Storage
 
 Apex 7 Red Switches (Full 10k)
+
 Logitech G502
+
 Blue Yeti
+
 Airpods Pro 2
 
+
 Testable IOS Devices:
+
 Ipad Air M2 (8GB)
+
 Iphone 14 Pro
+
 Apple Watch Series 6
+
