@@ -21,7 +21,7 @@
 - **AirPods Pro 2**
 
 ## Testable iOS Devices
-- **iPad Air M2** (8 GB)
+- **iPad Air M2** (8 GB, Apple Pencil Pro)
 - **iPhone 14 Pro**
 - **Apple Watch Series 6**
 
