@@ -1,6 +1,6 @@
 **Hey, I'm Jacob!** Im a student software developer attending Toronto Metropolitan University based in Toronto, Canada 🇨🇦. 
 
-# View My ![Website](https://jacobamobin.github.io)
+# View My [Website](https://jacobamobin.github.io)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
