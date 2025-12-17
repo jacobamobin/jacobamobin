@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=jacobamobin)
 
-# View My [Website](https://jacobamobin.github.io)
 
 # New IOS App - [GTA Car Meets](https://apps.apple.com/ca/app/gta-carmeets/id6746083732)
 - Track Car Meets and Cruises in the Greater Toronto Area.
