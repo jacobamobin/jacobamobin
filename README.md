@@ -1,4 +1,4 @@
-**Hey, I'm Jacob!** Im a student software developer attending Toronto Metropolitan University based in Toronto, Canada 🇨🇦. 
+**Hey, I'm Jacob!** Im a computer science student attending Toronto Metropolitan University based in Toronto, Canada 🇨🇦. 
 
 I currently work as a Data Engineer at Gore Mutual Insurance, and can be contacted on [Linkedin](https://linkedin.com/in/jacob-mobin).
 
